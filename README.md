@@ -4,7 +4,7 @@
 This project analyzes FIFA player data using Python and various data science techniques. It explores player attributes, performance metrics, and key insights through data visualization and statistical analysis.
 
 ## 📂 Dataset
-- **Source:** FIFA 19 dataset (or specify the source if different)
+- **Source:** FIFA dataset
 - **Columns Include:** Age, Overall Rating, Potential, Strength, Stamina, Preferred Foot, etc.
 - **Dataset Format:** CSV
 
